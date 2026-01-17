@@ -1,7 +1,9 @@
 # Markov-Chain
 Markov Chain for Weather Transitions
 <br>
+<br>
 Key Features:
+<br>
 Weather State Transitions: Models how weather changes from one day to another
 
 Transition Probability Matrix: Shows probabilities for all possible weather changes
